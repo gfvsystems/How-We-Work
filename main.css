@@ -148,7 +148,7 @@
   margin: 0 5px;
 }
 #timeline-container #timeline .owl-dots .owl-dot i {
-  background-color: rgba(0,0,0,0.0);
+  background-color: #edd3c4;
   border: 2px solid #231f20;
   border-radius: 50%;
   width: 14px;
