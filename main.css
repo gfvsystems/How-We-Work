@@ -302,6 +302,7 @@
       BlinkMacSystemFont, "Helvetica Neue", sans-serif;
     margin-top: 20px;
     display: block;
+    color: #000000;
   }
   #timeline-container
     #timeline
