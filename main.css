@@ -124,6 +124,7 @@
   -webkit-backface-visibility: visible;
   transition: opacity 0.2s ease;
   border-radius: 30px;
+  color:#000000;
 }
 
 .wrap {
@@ -154,6 +155,7 @@
   width: 14px;
   height: 14px;
   display: inline-block;
+  color: #000000;
 }
 #timeline-container #timeline .owl-dots .owl-dot span {
   display: none;
