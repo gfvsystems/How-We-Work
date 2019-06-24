@@ -297,9 +297,8 @@
     transform: translate(-50%, -50%);
   }
   #timeline-container #timeline #how-we-work-timeline .owl-dots .owl-dot span {
-    text-transform: uppercase;
-    font-family: "AvenirLTStd-Black", "Nunito Sans", -apple-system,
-      BlinkMacSystemFont, "Helvetica Neue", sans-serif;
+    text-transform: none;
+    font-family: "Karla;
     margin-top: 20px;
     display: block;
     color: #000000;
