@@ -298,7 +298,8 @@
   }
   #timeline-container #timeline #how-we-work-timeline .owl-dots .owl-dot span {
     text-transform: none;
-    font-family: "Karla";
+    font-family: "AvenirLTStd-Black", "Nunito Sans", -apple-system,
+      BlinkMacSystemFont, "Helvetica Neue", sans-serif;
     margin-top: 20px;
     display: block;
     color: #000000;
